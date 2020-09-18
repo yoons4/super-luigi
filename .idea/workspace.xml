@@ -29,7 +29,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a818ce35-fc9b-4785-b8bd-1bf70b43caf1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +79,6 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="js.build_tools.grunt">
       <node-interpreter value="project" />
       <envs />
@@ -100,7 +95,8 @@
       <updated>1600441036109</updated>
       <workItem from="1600441039270" duration="1988000" />
       <workItem from="1600447083275" duration="37000" />
-      <workItem from="1600447136998" duration="1515000" />
+      <workItem from="1600447136998" duration="2084000" />
+      <workItem from="1600449831883" duration="286000" />
     </task>
     <servers />
   </component>
@@ -117,11 +113,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600448185926">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="184" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600449073309">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
+    <state x="184" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.806@0.23.1440.806" timestamp="1600449073309" />
     <state x="184" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.808@0.23.1440.808" timestamp="1600448185926" />
     <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1600447005822">
       <screen x="0" y="23" width="1440" height="808" />

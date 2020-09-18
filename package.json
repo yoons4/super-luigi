@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:yoons4/super-luigi.git"
+    "url": "git+https://github.com/yoons4/super-luigi.git"
   },
   "keyword": [
     "nodejs",
