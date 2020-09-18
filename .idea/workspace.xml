@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a818ce35-fc9b-4785-b8bd-1bf70b43caf1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +51,6 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,7 +59,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600441036109</updated>
-      <workItem from="1600441039270" duration="1803000" />
+      <workItem from="1600441039270" duration="1988000" />
+      <workItem from="1600447083275" duration="37000" />
     </task>
     <servers />
   </component>
@@ -75,21 +68,25 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1600445978723">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1600447005822">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1600447005822" />
     <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1600445978723" />
-    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1600445978722">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1600447005821">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1600447005821" />
     <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1600445978722" />
-    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1600445978721">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1600447005820">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1600447005820" />
     <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1600445978721" />
-    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1600445978722">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1600447005822">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1600447005822" />
     <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1600445978722" />
   </component>
 </project>
