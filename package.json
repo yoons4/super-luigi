@@ -1,19 +1,32 @@
 {
   "name": "super-luigi",
   "version": "1.0.0",
-  "description": "Sample Get",
-  "main": "index.js",
+  "private": true,
+  "description": "Luigi jumps.",
+  "engines": {
+    "node": "12.x"
+  },
+  "main": "./bin/www",
   "scripts": {
+    "start": "node ./bin/www",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yoons4/super-luigi.git"
+    "url": "git@github.com:yoons4/super-luigi.git"
   },
+  "keyword": [
+    "nodejs",
+    "heroku"
+  ],
   "author": "Sangha Yoon",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/yoons4/super-luigi/issues"
-  },
-  "homepage": "https://github.com/yoons4/super-luigi#readme"
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "pug": "3.0.0"
+  }
 }
