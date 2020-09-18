@@ -1,0 +1,19 @@
+{
+  "name": "super-luigi",
+  "version": "1.0.0",
+  "description": "Sample Get",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoons4/super-luigi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoons4/super-luigi/issues"
+  },
+  "homepage": "https://github.com/yoons4/super-luigi#readme"
+}
